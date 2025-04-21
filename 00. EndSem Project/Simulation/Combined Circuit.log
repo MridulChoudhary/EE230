@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\S4\EE 230 Analog Circuits Lab\00. EndSem Project\Simulation\Combined Circuit.asc
-Start Time: Fri Apr 11 15:08:09 2025
+Start Time: Mon Apr 14 19:31:07 2025
 solver = Normal
 Maximum thread count: 12
 tnom = 27
@@ -51,5 +51,5 @@ Source Step = 63.6364%
 Source Step = 93.9394%
 Source stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.354 seconds.
+Total elapsed time: 0.246 seconds.
 
